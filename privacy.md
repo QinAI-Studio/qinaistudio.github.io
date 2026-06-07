@@ -72,4 +72,4 @@ If you have questions about this Privacy Policy or how your data is handled, ple
 
 ---
 
-© 2025 QinAI Studio. All rights reserved.
+© 2025---2026 QinAI Inc. All rights reserved.
