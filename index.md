@@ -48,4 +48,4 @@ Designed for elderly, disabled, and underserved patients.
 📧 [hongrong@qinaistudio.com](mailto:hongrong@qinaistudio.com)
 <br>🔗 [LinkedIn](https://www.linkedin.com/in/lily-qin-2312382/)
 <br>🌐 [www.qinaistudio.com](https://www.qinaistudio.com)
-<br>📰 [Substack](https://qinai.substack.com/)
+<br>✍️ *Why I built this:* [The Deepest Longing](https://substack.com/home/post/p-200971257) · [All Writing on Substack](https://qinai.substack.com/)
