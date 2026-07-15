@@ -42,8 +42,8 @@ Designed for elderly, disabled, and underserved patients.
 <br>🎥 [Full Walkthrough (14 min)](https://drive.google.com/file/d/18BF1jLBIaXCl9N16ZG3PMGCMgOCFAgxA/view?usp=drive_link)
 
 ## 🧾 Pending Patents
-<span style="color:#d4af37; font-weight:bold;">Form Agent: Intelligent Document Filling and Signature Automation (U.S. Application No. 63/899,249)</span>
-<br><span style="color:#d4af37; font-weight:bold;">Voice-First Form Completion System with Atypical-Speech Adaptation and Semantic Field Routing (U.S. Application No. 64/111,075)</span>
+📄 <span style="color:#d4af37; font-weight:bold;">Form Agent: Intelligent Document Filling and Signature Automation</span> (U.S. Application No. 63/899,249)
+<br>🎙️ <span style="color:#d4af37; font-weight:bold;">Voice-First Form Completion System with Atypical-Speech Adaptation and Semantic Field Routing</span> (U.S. Application No. 64/111,075)
 
 ## 📬 Contact:
 📧 [hongrong@qinaistudio.com](mailto:hongrong@qinaistudio.com)
