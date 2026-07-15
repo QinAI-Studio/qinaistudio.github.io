@@ -33,16 +33,17 @@ Healthcare runs on paperwork. We're here to end that.<br>
 | ✨ **[Meet the Founder (1 Min)](https://drive.google.com/file/d/1BswNnJDEA8uKhzvfV63jYuDN7Gn-wyjI/view?usp=drive_link)** |
 
 ## 🛠️Product -- Form Agent!
-
 AI agent reads, fills, and submits healthcare forms — correctly, the first time.<br>
 Built for accessibility: voice input, large fonts, high contrast, and screen reader support. <br>
 Designed for elderly, disabled, and underserved patients.
 <br>🔗 [Try Form Agent](https://form.qinaistudio.com/)
 <br>📘 [User Guide](https://github.com/LilyQin19/qinaistudio.github.io/blob/main/FormAgent_UserGuide.md)
-<br>🧾 <span style="color:#d4af37; font-weight:bold;">Patent Pending – U.S. Application No. 63/899,249</span>
 <br>🎥 [Quick Product Demo (3 min)](https://drive.google.com/file/d/1bSJWCJMuAFQv7TlcqSDYY_p_ZOgYQSnN/view?usp=drive_link)
 <br>🎥 [Full Walkthrough (14 min)](https://drive.google.com/file/d/18BF1jLBIaXCl9N16ZG3PMGCMgOCFAgxA/view?usp=drive_link)
 
+## 🧾 Pending Patents
+<span style="color:#d4af37; font-weight:bold;">Form Agent: Intelligent Document Filling and Signature Automation (U.S. Application No. 63/899,249)</span>
+<br><span style="color:#d4af37; font-weight:bold;">Voice-First Form Completion System with Atypical-Speech Adaptation and Semantic Field Routing (U.S. Application No. 64/111,075)</span>
 
 ## 📬 Contact:
 📧 [hongrong@qinaistudio.com](mailto:hongrong@qinaistudio.com)
